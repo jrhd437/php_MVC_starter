@@ -4,7 +4,7 @@
 class user{
 
     public $id;
-    public $username = 'jaredl';
+    public $username = 'username';
     public $firstname;
     public $lastname;
     public $address;
