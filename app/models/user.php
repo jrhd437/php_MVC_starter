@@ -13,13 +13,6 @@ class user{
     public $zip;
     public $phone;
     public $email;
-    public $field_rights;
-    public $tagger_rights;
-    public $export_rights;
-    public $import_rights;
-    public $tims_rights;
-    public $timekeeping_rights;
-    public $field_market;
     public $password;
     public $key;
     public $login_expiration;
